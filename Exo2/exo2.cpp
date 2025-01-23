@@ -9,7 +9,7 @@ using namespace std;
 * \file   exo2.cpp
 * \author Jiaqi Zhao et Matthew Brassard
 * \date   21 janvier 2025
-* Créé le 21 janvier 2025
+* Créé le 16 janvier 2025
 */
 
 /**
@@ -101,7 +101,7 @@ int main() {
 		cout << "Vous n'allez jamais remourser votre somme." << endl;
 	}
 	else {
-		cout << "Vous allez prendre " << nbMois << " mois pour remourser votre somme." << endl;
+		cout << "Vous allez prendre " << nMois << " mois pour remourser votre somme." << endl;
 	}
 	cout << "L'interet accumule est de " << interetTotal << "$." << endl;
 
